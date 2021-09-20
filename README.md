@@ -1,4 +1,4 @@
-# sparanoid/docker-restbase
+# sparanoid/restbase
 
 [RESTBase](https://github.com/wikimedia/restbase) Docker image.
 
