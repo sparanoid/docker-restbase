@@ -50,6 +50,7 @@ jobs:
             sparanoid/restbase
             ghcr.io/sparanoid/restbase
           tags: |
+            type=edge
             type=schedule
             type=ref,event=branch
             type=ref,event=pr
