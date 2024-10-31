@@ -1,5 +1,8 @@
 # Docker RESTBase
 
+> [!IMPORTANT]
+> In MediaWiki 1.35 Parsoid/PHP is included in the bundle and loaded automatically by Visual Editor. No configuration necessary for MediaWiki 1.35 and later. You may not need this anymore.
+
 [RESTBase](https://github.com/wikimedia/restbase) Docker image.
 
 - [Docker Hub](https://hub.docker.com/r/sparanoid/restbase)
